@@ -18,12 +18,13 @@ class MediaMusicNotification {
   Stream get onNotificationEvent => _eventController.stream;
 
   /*Play*/
-  void play(String title, String author, String album){
+  void play(String title, String author, String album, {bool setOngoing = false}){
     _channel.invokeMethod('Play',
         <String,dynamic>{
           'title': title,
           'author': author,
-          'album': album
+          'album': album,
+          'setOngoing': setOngoing,
         }
     );
   }

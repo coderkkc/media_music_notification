@@ -28,6 +28,7 @@ public class NotificationUtil extends BroadcastReceiver {
     private static String title;
     private static String author;
     private static String album;
+    private static boolean setOngoing;
     private static boolean isPlay;
     private static Bitmap bitmap;
 
@@ -64,11 +65,12 @@ public class NotificationUtil extends BroadcastReceiver {
 
     }
 
-    public NotificationUtil(Context context, String title, String author, String album) {
+    public NotificationUtil(Context context, String title, String author, String album, boolean setOngoing) {
         this.parent = context;
         this.title = title;
         this.author = author;
         this.album = album;
+        this.setOngoing = setOngoing;
         PlayBroadcastReceiver playBroadcastReceiver = new PlayBroadcastReceiver();
         final IntentFilter filter = new IntentFilter();
         filter.addAction("Previous");
@@ -127,7 +129,7 @@ public class NotificationUtil extends BroadcastReceiver {
             builder.setOngoing(true);
             actions.add(new NotificationCompat.Action(R.drawable.ic_action_pause, "play", intent_resume_pause));
         }else{
-            builder.setOngoing(false);
+            builder.setOngoing(setOngoing);
             actions.add(new NotificationCompat.Action(R.drawable.ic_action_play_arrow, "pause", intent_resume_pause));
         }
         actions.add(new NotificationCompat.Action(R.drawable.ic_action_skip_next, "Next", intent_next));

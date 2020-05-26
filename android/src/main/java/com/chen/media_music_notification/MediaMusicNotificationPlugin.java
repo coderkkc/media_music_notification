@@ -92,7 +92,8 @@ public class MediaMusicNotificationPlugin implements FlutterPlugin, MethodCallHa
       String title = call.argument("title");
       String author = call.argument("author");
       String album = call.argument("album");
-      notificationUtil = new NotificationUtil(flutterActivity, title, author, album);
+      boolean setOngoing = call.argument("setOngoing");
+      notificationUtil = new NotificationUtil(flutterActivity, title, author, album, setOngoing);
     }else if(call.method.equals("Pause")){
       if(notificationUtil!=null){
         notificationUtil.operate("Pause");

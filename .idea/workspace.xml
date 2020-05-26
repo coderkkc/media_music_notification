@@ -5,65 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b85e754b-15ac-4a37-9629-c80892e28fba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/chen/media_music_notification/NotificationUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-hdpi/ic_action_pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-hdpi/ic_action_play_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-hdpi/ic_action_skip_next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-hdpi/ic_action_skip_previous.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-hdpi/ic_action_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-mdpi/ic_action_pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-mdpi/ic_action_play_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-mdpi/ic_action_skip_next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-mdpi/ic_action_skip_previous.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-mdpi/ic_action_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xhdpi/ic_action_pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xhdpi/ic_action_play_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xhdpi/ic_action_skip_next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xhdpi/ic_action_skip_previous.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xhdpi/ic_action_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xxhdpi/ic_action_pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xxhdpi/ic_action_play_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xxhdpi/ic_action_skip_next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xxhdpi/ic_action_skip_previous.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xxhdpi/ic_action_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xxxhdpi/ic_action_pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xxxhdpi/ic_action_play_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xxxhdpi/ic_action_skip_next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xxxhdpi/ic_action_skip_previous.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/res/drawable-xxxhdpi/ic_action_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ttasmr/lib/channels/back_desktop.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/android/app/src/main/kotlin/com/ttasmr/ttasmr/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/android/app/src/main/kotlin/com/ttasmr/ttasmr/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/config/service_url.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/config/service_url.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/anchor_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/anchor_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/author_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/author_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/category_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/category_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/collect_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/collect_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/comment_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/comment_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/download_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/download_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/drawer_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/drawer_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/edit_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/edit_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/feedback_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/feedback_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/focus_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/focus_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/history_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/history_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/index_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/index_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/invite_code_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/invite_code_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/person_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/person_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/player_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/player_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/recommend_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/recommend_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/search_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/search_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/pages/setting_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/pages/setting_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/providers/player.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/providers/player.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/services/app_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/services/app_service.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/services/service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/services/service.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/utils/database.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/utils/database.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/utils/util.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/utils/util.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/widgets/widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/lib/widgets/widget.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/lib/widgets/widgets.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ttasmr/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../ttasmr/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/chen/media_music_notification/MediaMusicNotificationPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/chen/media_music_notification/MediaMusicNotificationPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/chen/media_music_notification/NotificationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/chen/media_music_notification/NotificationUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/media_music_notification.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/media_music_notification.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -78,17 +29,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="c130448e" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/media_music_notification.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="163">
+              <caret line="20" column="79" selection-start-line="20" selection-start-column="79" selection-end-line="20" selection-end-column="79" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -96,7 +46,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
@@ -105,29 +64,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/example/lib/main.dart" />
         <option value="$PROJECT_DIR$/lib/media_music_notification.dart" />
-        <option value="$PROJECT_DIR$/pubspec.yaml" />
       </list>
     </option>
   </component>
@@ -143,8 +90,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,16 +113,17 @@
             <path>
               <item name="media_music_notification" type="b2602c69:ProjectViewProjectNode" />
               <item name="media_music_notification" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -208,7 +157,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1541555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2124665" />
       <window_info id="Captures" order="1" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -223,7 +172,7 @@
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="4" weight="0.32859176" />
       <window_info anchor="bottom" id="Debug" order="5" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="6" sideWeight="0.49932975" visible="true" weight="0.5064011" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49932975" weight="0.23613086" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067025" side_tool="true" weight="0.5064011" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32859176" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32859176" />
@@ -237,30 +186,30 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/media_music_notification.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/android/media_music_notification.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pubspec.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/media_music_notification.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="20" column="79" selection-start-line="20" selection-start-column="79" selection-end-line="20" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
