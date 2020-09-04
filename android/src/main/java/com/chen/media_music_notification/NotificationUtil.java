@@ -91,6 +91,7 @@ public class NotificationUtil extends BroadcastReceiver {
                 channel = new NotificationChannel("media_notification", "media_notification", NotificationManager.IMPORTANCE_DEFAULT);
                 channel.enableVibration(false);
                 channel.setVibrationPattern(new long[]{0});
+                channel.setSound(null,null);
                 manager.createNotificationChannel(channel);
             }
         }
@@ -102,6 +103,8 @@ public class NotificationUtil extends BroadcastReceiver {
         builder = new NotificationCompat.Builder(parent, "media_notification");
         builder.setVisibility(NotificationCompat.VISIBILITY_PUBLIC);
         builder.setSmallIcon(getResourceId("mipmap/ic_launcher"));
+        builder.setVibrate(new long[]{0});
+        builder.setSound(null);
 
         //listen switch activity
         Intent par = new Intent(parent, parent.getClass());
